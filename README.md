@@ -9,8 +9,8 @@
           <li>2013 ~ 2016 Typhoons, earthquakes🏚️, <mark><a class="no-underline" href="https://www.douban.com/note/661279432/" target="_blank">cycling🚴</a></mark> and CS👨‍🎓 in <mark><a class="no-underline" href="https://www.ntu.edu.tw/" target="_blank">NTU</a></mark> Taiwan🌴</li>
           <li>2009 ~ 2013 Playing snow☃️ in Harbin⛪️  <mark><a class="no-underline" href="http://www.hit.edu.cn/" target="_blank">HIT</a></mark> with a bachelor's degree of EE📡🎓</li>
           <li>2000 ~ 2009 Comsulsory 👓📚education🏀</li>
-          <li>XXXX ~ 2000 Mud🐶 Sport🎮📺🔎</li>
-          <li>XXXX ~ 🍼Born🎉🎉🎉 in Jianyang City🏞️, Fujian Province, China</li>
+          <li>xxxx ~ 2000 Mud🐶 Sport🎮📺🔎</li>
+          <li>xxxx ~ 🍼Born🎉🎉🎉 in Jianyang City🏞️, Fujian Province, China</li>
         </ul>
     </main>    
     <div class="contact">
